@@ -3,7 +3,7 @@
 __Ways to run project tests:__
 
 1) clone the project to your computer: 
-`git clone https://github.com/YOURPROJECTNAME` 
+`git clone https://github.com/SorokinaLera/Onliner.by` 
 
 2) open project 
 
