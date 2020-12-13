@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 
 public class CatalogPage extends BasePage{
-    public static final By HEADER_TITLE_BUTTON = By.xpath("//*[@class='schema-header']//*[contains(text(),'Мобильные телефоны')]");
+    public static final By HEADER_TITLE_BUTTON = By.xpath("//*[@class='schema-header']//*[contains(text(), 'Мобильные телефоны')]");
 
     public CatalogPage(WebDriver driver) {
         super(driver);
