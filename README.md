@@ -10,7 +10,9 @@ __Ways to run project tests:__
 3) update project dependencies via Maven 
 (you can do that in IDE by clicking the “Update” button in `pom.xml` file  or via terminal command `mvn dependency:resolve`)
 
-4) run project via IDE by clicking the run button or via terminal command `mvn clean test -DsuiteXmlFile=src/test/resources/SmokeTest.xml`
+4) run project: 
+- via IDE by clicking the run button
+- via terminal command `mvn clean test -DsuiteXmlFile=src/test/resources/SmokeTest.xml`
 
 
 __Dependencies__
